@@ -9,7 +9,7 @@ Description:
 
 Three python scripts:
 
-train_mask_detector.py - Accepts our input dataset and fine tunes MobileNetV2 upon it to create our mask_detector_model. A training history plot.png containing accuracy/ loss curves is also produced.
+train_mask_detector.py - Accepts input dataset and fine tunes MobileNetV2 upon it to create our mask_detector_model. A training history plot.png containing accuracy/ loss curves is also produced.
 
 detect_mask_image.py - Performs face mask detection in static image.
 
