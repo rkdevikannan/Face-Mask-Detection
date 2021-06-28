@@ -3,7 +3,7 @@ Face Mask Detection
 
 Introduction:
 
-Face mask detection is a simple model to detect face mask. Due to COVID-19 there is need of face mask detection application on many places like Malls and Theatres for safety.
+Face mask detection is a simple model to detect face mask.Developed with OpenCV, Keras, TensorFlow and Deep Learning. Detects face masks in static images as well as in real-time video streams. 
 
 Description:
 
@@ -14,3 +14,11 @@ train_mask_detector.py - Accepts our input dataset and fine tunes MobileNetV2 up
 detect_mask_image.py - Performs face mask detection in static image.
 
 detect_mask_video.py - Using your webcam , this script applies face mask detection to every frame in the stream.  
+
+Data collection:
+
+* Real-World Masked Face Dataset(RMFD)
+
+* Kaggle Datasets
+
+ 
