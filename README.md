@@ -3,7 +3,7 @@ Face Mask Detection
 
 Introduction:
 
-Face mask detection is a simple model to detect face mask.Developed with OpenCV, Keras, TensorFlow and Deep Learning. Detects face masks in static images as well as in real-time video streams. 
+Face mask detection is a simple model to detect face mask. Developed with OpenCV, Keras, TensorFlow and Deep Learning. Detects face masks in static images as well as in real-time video streams. 
 
 Description:
 
@@ -21,4 +21,13 @@ Data collection:
 
 * Kaggle Datasets
 
+Output:
+
+* Detecting faces in images /videos
+
+* Extracting each individual face ROI
+
+* Applying face mask classifier
+
+* Integrating Face mask classifier with a website 
  
